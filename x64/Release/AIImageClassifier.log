@@ -1,0 +1,103 @@
+﻿  pch.cpp
+  AIImageClassifier.cpp
+  AIImageClassifierDlg.cpp
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(622,69): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(652,65): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(708,78): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(738,65): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(887,42): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(923,53): warning C4244: “参数”: 从“std::streamsize”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(994,50): warning C4267: “=”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(1370,69): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(1397,65): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: “参数”: 从“const wchar_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)”的引用
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)”的引用
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<const wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=const wchar_t *
+          ]
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(727): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(727): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_const_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_const_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: “参数”: 从“wchar_t”转换到“const _Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)”的引用
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(_Iter,const _Iter,std::input_iterator_tag)”的引用
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=wchar_t *
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 查看对正在编译的函数 模板 实例化“void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<wchar_t*>(const _Iter,const _Iter,std::forward_iterator_tag)”的引用
+          with
+          [
+              _Iter=wchar_t *
+          ]
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(786): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\AIImageClassifierDlg.cpp(785): message : 查看对正在编译的函数 模板 实例化“std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)”的引用
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+  CSVManager.cpp
+  MatchConfigDlg.cpp
+  ThresholdAnalysis.cpp
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\ThresholdAnalysis.cpp(23,44): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\ThresholdAnalysis.cpp(50,62): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  YOLO11CLASS.cpp
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\YOLO11CLASS.cpp(181,47): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\YOLO11CLASS.cpp(182,49): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 2681 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AIImageClassifier.vcxproj -> E:\CPP-Proj\repos\good\ing\AIImageClassifier-2025-11-10-v4-2\AIImageClassifier-2025-11-10-v4\AIImageClassifier\x64\Release\AIImageClassifier.exe
